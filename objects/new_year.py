@@ -6,5 +6,9 @@ class NewYear:
         return self.currentAge
     def info(self):
         print(f"My name is {self.name} and at {self.currentAge}")
-            
+
+
+
+
+
         

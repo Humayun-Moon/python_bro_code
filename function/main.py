@@ -68,4 +68,6 @@ print("Day : ", day)
 month = current_date.month 
 print("Month", month) 
 year = current_date.year
-print("Year :", year)
+print("Year :", year) 
+
+print(f"")
